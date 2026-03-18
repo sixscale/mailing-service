@@ -48,7 +48,7 @@
 #### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/sixscale/test-jet-land-promocode.git
+git clone https://github.com/sixscale/mailing-service.git
 cd mailing-service
 ```
 #### 2. Настройка окружения
