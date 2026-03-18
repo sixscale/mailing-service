@@ -1,4 +1,4 @@
-# 🚀 Jet Land Mailing Manager
+# 🚀 Mailing Manager
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-**Выгрузка записей из таблицы для системы Jet Land**
+**Выгрузка записей из таблицы**
 
 [Установка](#-установка) • [Использование](#-использование)
 
@@ -19,7 +19,7 @@
 
 ## 📋 Описание
 
-**Jet Land Mailing Manager** — это тестовое задание для компании Jet Land.
+**Mailing Manager** — это сервис для обработки эксель таблиц.
 
 ### ✨ Основные возможности
 
