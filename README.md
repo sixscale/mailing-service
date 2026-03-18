@@ -49,7 +49,7 @@
 
 ```bash
 git clone https://github.com/sixscale/test-jet-land-promocode.git
-cd test-jet-land-mailing
+cd mailing-service
 ```
 #### 2. Настройка окружения
 ```bash
@@ -100,5 +100,4 @@ uv run pytest -v
 
 Распространяется под лицензией MIT. См. LICENSE для подробностей.
 <div align="center">
-Made with ❤️ for Jet Land
 </div>
